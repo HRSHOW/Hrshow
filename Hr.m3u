@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="DBC"tvg-group="NEWS",dbc news
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Somoy "tvg-group="News", Somoy tv
+#EXTINF:-1 tvg-id="Somoy "tvg-group="NEWS", Somoy tv
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
-#EXTINF:-1 tvg-id="Satv "tvg-group="News", Satv
+#EXTINF:-1 tvg-id="Satv "tvg-group="NEWS", Satv
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
