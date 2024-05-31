@@ -41,3 +41,12 @@ https://ythls.armelin.one/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 
 #EXTINF:-1 tvg-id="ABC NEWS "tvg-group="NEWS",ABC NEWS
 https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+
+#EXTINF:-1 tvg-id="SKY NEWS "tvg-group="NEWS",SKY NEWS
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera "tvg-group="NEWS",Aljazeera uk
+https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+
+#EXTINF:-1 tvg-id="GB NEWS "tvg-group="NEWS",GB NEWS UK
+https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
