@@ -1,2 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="DBC"tvg-group="NEWS",dbc news
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
