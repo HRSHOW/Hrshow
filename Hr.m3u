@@ -17,3 +17,12 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
 #EXTINF:-1 tvg-id="Banglavision "tvg-group="Entertainment",Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="News24 "tvg-group="NEWS",News24
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BBC "tvg-group="NEWS",BBC NEWS
+http://195.181.175.69:2080/67/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC "tvg-group="NEWS",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
