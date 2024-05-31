@@ -27,5 +27,3 @@ http://195.181.175.69:2080/67/index.m3u8
 #EXTINF:-1 tvg-id="ABC "tvg-group="NEWS",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="France24 "tvg-group="NEWS",France24
-https://www.youtube.com/live/tkDUSYHoKxE?si=PDiAjurfbNq_f4gk
