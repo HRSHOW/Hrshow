@@ -8,3 +8,12 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 tvg-id="Satv "tvg-group="NEWS",Satv
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="71 tv "tvg-group="NEWS",71 tv
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 tvg-id="independent "tvg-group="NEWS",independent tv
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision "tvg-group="Entertainment",Banglavision
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
