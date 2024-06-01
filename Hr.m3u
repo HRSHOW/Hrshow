@@ -68,4 +68,5 @@ https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 24 "tvg-group="NEWS",CHANNEL 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
+EXTINF:-1 tvg-id="NTV"tvg-group="NEWS" tvg-logo="https://i.ibb.co/Wn3m6VX/1200px-NTV-Bangladesh-logo-svg.png",NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
