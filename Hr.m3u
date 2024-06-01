@@ -65,5 +65,5 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Net-geo "tvg-group="Documentary" tvg-logo="https://i.ibb.co/xLsQ9KG/1200px-Nat-Geo-Wild-logo.png",Net-geo
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
-#EXTINF:-1 tvg-id="CHANNEL 24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/BnqDYkD/1200px-Channel24logo-svg.png",CHANNEL 24
+#EXTINF:-1 tvg-id="CHANNEL 24 "tvg-group="NEWS",CHANNEL 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
