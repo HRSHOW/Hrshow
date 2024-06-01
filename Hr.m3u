@@ -56,5 +56,26 @@ https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 tvg-id="9xm "tvg-group="Music" tvg-logo="https://i.ibb.co/hD9V4Rz/lwihpv.png",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
+#EXTINF:-1 tvg-id="9xm "tvg-group="Music" tvg-logo="https://i.ibb.co/hD9V4Rz/lwihpv.png",9xm
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo "tvg-group="Documentary" tvg-logo="https://i.ibb.co/xLsQ9KG/1200px-Nat-Geo-Wild-logo.png",Net-Geo-Wild
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+
+#EXTINF:-1 tvg-id="HGTV "tvg-group="Documentary" tvg-logo="https://i.ibb.co/yXgrhGq/1200px-HGTV-2010-svg.png",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+
+#EXTINF:-1 tvg-id="Rtv "tvg-group="NEWS" tvg-logo="https://i.ibb.co/7N9QHPj/800px-Rtv-bangladesh-svg.png",Rtv
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NTV "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Wn3m6VX/1200px-NTV-Bangladesh-logo-svg.png",NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1 tvg-id="Channel24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/BnqDYkD/1200px-Channel24logo-svg.png",Channel24 
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
 #EXTINF:-1 tvg-id="Chanel i "tvg-group="NEWS" tvg-logo="https://i.ibb.co/fx1pB7L/1200px-Channel-i-svg.png",Channel-i 
 https://ythls.armelin.one/channel/UCiAnEtQB96c-UHCgHrdMIsA.m3u8
+
+#EXTINF:-1 tvg-id="EKHON TV "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Mcv989g/Ekhon-Logo.png",EKHON TV
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
