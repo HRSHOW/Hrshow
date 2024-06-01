@@ -58,3 +58,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
 #EXTINF:-1 tvg-id="EKHON TV "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Mcv989g/Ekhon-Logo.png",EKHON TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Channel24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/BnqDYkD/1200px-Channel24logo-svg.png",Channel24 
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
