@@ -61,3 +61,6 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Rtv "tvg-group="NEWS" tvg-logo="https://i.ibb.co/7N9QHPj/800px-Rtv-bangladesh-svg.png",Rtv
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HGTV "tvg-group="Documentary" tvg-logo="https://i.ibb.co/yXgrhGq/1200px-HGTV-2010-svg.png",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
