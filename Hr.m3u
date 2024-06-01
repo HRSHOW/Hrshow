@@ -1,53 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DBC"tvg-group="NEWS",dbc news
+
+#EXTINF:-1 tvg-id="DBC"tvg-group="NEWS"  tvg-logo="https://i.ibb.co/jWxVHPG/DBC-News-logo.png,dbc news
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Somoy "tvg-group="NEWS",Somoy tv
+#EXTINF:-1 tvg-id="Somoy "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Q9YtZqc/Somoy-TV-Logo-e1629770037938.png",Somoy tv
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
-#EXTINF:-1 tvg-id="Satv "tvg-group="NEWS",Satv
+#EXTINF:-1 tvg-id="Satv "tvg-group="NEWS" tvg-logo="https://i.ibb.co/6JW4FpY/HC82WBV.png,Satv
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="71 tv "tvg-group="NEWS",71 tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:-1 tvg-id="independent "tvg-group="NEWS",independent tv
+#EXTINF:-1 tvg-id="independent "tvg-group="NEWS" tvg-logo="https://i.ibb.co/cTWnsnS/png-clipart-bangladesh-independent-television-television-channel-mohona-tv-chanel-miscellaneous-tele.png,independent tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
-#EXTINF:-1 tvg-id="Banglavision "tvg-group="Entertainment",Banglavision
+#EXTINF:-1 tvg-id="Banglavision "tvg-group="Entertainment" tvg-logo="https://i.ibb.co/TW9wN3M/3170301192763hr29oggvy5bbwhcjf5ub8se3ok6fgk5hejqo2xywbqg5psktx3vufu6rd4sfiyiwrmuuxqbxzsu6ymywvd8dha0.png,Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="News24 "tvg-group="NEWS",News24
+#EXTINF:-1 tvg-id="News24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/0VxSVbB/news24bd-tv-logo-vector.png,News24
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BBC "tvg-group="NEWS",BBC NEWS
+#EXTINF:-1 tvg-id="BBC "tvg-group="NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png,BBC NEWS
 http://195.181.175.69:2080/67/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC "tvg-group="NEWS",ABC NEWS
+#EXTINF:-1 tvg-id="ABC "tvg-group="NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png,ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="zoom "tvg-group="Music",Zoomtv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera "tvg-group="NEWS",Al Jazeera 
+#EXTINF:-1 tvg-id="Al Jazeera "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png,Al Jazeera 
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
 ##EXTINF:-1 tvg-id="France24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/RPtrWY8/635px-France24.png",FRANCE24 
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
-#EXTINF:-1 tvg-id="Euronews "tvg-group="NEWS",EURONEWS 
+#EXTINF:-1 tvg-id="Euronews "tvg-group="NEWS" tvg-logo="https://i.ibb.co/5hjCzRH/800px-Euronews-2016-alternative-logo.png,EURONEWS 
 https://ythls.armelin.one/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 
-#EXTINF:-1 tvg-id="ABC NEWS "tvg-group="NEWS",ABC NEWS
+#EXTINF:-1 tvg-id="ABC NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png,ABC NEWS
 https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 
-#EXTINF:-1 tvg-id="SKY NEWS "tvg-group="NEWS",SKY NEWS
+#EXTINF:-1 tvg-id="SKY NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Nm4Cwzb/2560px-Sky-news-logo-svg.png",SKY NEWS
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera "tvg-group="NEWS",Aljazeera uk
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
-#EXTINF:-1 tvg-id="GB NEWS "tvg-group="NEWS",GB NEWS UK
+#EXTINF:-1 tvg-id="GB NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/6YGMDFP/GB-News-logo-e1660555171324.png,GB NEWS UK
 https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
