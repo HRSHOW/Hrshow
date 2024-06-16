@@ -1,125 +1,113 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="DBC"tvg-group="NEWS" tvg-logo="https://i.ibb.co/jWxVHPG/DBC-News-logo.png",dbc news
+#EXTINF:-1 tvg-id="DBC"tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/jWxVHPG/DBC-News-logo.png",dbc news
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Somoy "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Q9YtZqc/Somoy-TV-Logo-e1629770037938.png",Somoy tv
+#EXTINF:-1 tvg-id="Somoy "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/Q9YtZqc/Somoy-TV-Logo-e1629770037938.png",Somoy tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Satv "tvg-group="NEWS" tvg-logo="https://i.ibb.co/6JW4FpY/HC82WBV.png",Satv
+#EXTINF:-1 tvg-id="Satv "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/6JW4FpY/HC82WBV.png",Satv
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="71 tv "tvg-group="NEWS" tvg-logo="https://i.ibb.co/F35HKWg/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television-thumbn.png",71 tv
+#EXTINF:-1 tvg-id="71 tv "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/F35HKWg/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television-thumbn.png",71 tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:-1 tvg-id="independent "tvg-group="NEWS" tvg-logo="https://i.ibb.co/cTWnsnS/png-clipart-bangladesh-independent-television-television-channel-mohona-tv-chanel-miscellaneous-tele.png",independent tv
+#EXTINF:-1 tvg-id="independent "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/cTWnsnS/png-clipart-bangladesh-independent-television-television-channel-mohona-tv-chanel-miscellaneous-tele.png",independent tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
-#EXTINF:-1 tvg-id="Banglavision "tvg-group="Entertainment" tvg-logo="https://i.ibb.co/TW9wN3M/3170301192763hr29oggvy5bbwhcjf5ub8se3ok6fgk5hejqo2xywbqg5psktx3vufu6rd4sfiyiwrmuuxqbxzsu6ymywvd8dha0.png",Banglavision
+#EXTINF:-1 tvg-id="Banglavision "tvg-group="Bangla" tvg-logo="https://i.ibb.co/TW9wN3M/3170301192763hr29oggvy5bbwhcjf5ub8se3ok6fgk5hejqo2xywbqg5psktx3vufu6rd4sfiyiwrmuuxqbxzsu6ymywvd8dha0.png",Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="News24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/0VxSVbB/news24bd-tv-logo-vector.png",News24
+#EXTINF:-1 tvg-id="News24 "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/0VxSVbB/news24bd-tv-logo-vector.png",News24
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BBC "tvg-group="NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
+#EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
 http://195.181.175.69:2080/67/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC "tvg-group="NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
+#EXTINF:-1 tvg-id="ABC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="zoom "tvg-group="Music",Zoomtv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Al Jazeera 
-https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
-
-##EXTINF:-1 tvg-id="France24 "tvg-group="NEWS" tvg-logo="https://i.ibb.co/RPtrWY8/635px-France24.png",FRANCE24 
+##EXTINF:-1 tvg-id="France24 "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/RPtrWY8/635px-France24.png",FRANCE24 
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
-
-#EXTINF:-1 tvg-id="Euronews "tvg-group="NEWS" tvg-logo="https://i.ibb.co/5hjCzRH/800px-Euronews-2016-alternative-logo.png",EURONEWS 
+#EXTINF:-1 tvg-id="Euronews "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/5hjCzRH/800px-Euronews-2016-alternative-logo.png",EURONEWS 
 https://ythls.armelin.one/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 
-#EXTINF:-1 tvg-id="ABC NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
+#EXTINF:-1 tvg-id="ABC NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
 https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 
-#EXTINF:-1 tvg-id="SKY NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Nm4Cwzb/2560px-Sky-news-logo-svg.png",SKY NEWS
+#EXTINF:-1 tvg-id="SKY NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/Nm4Cwzb/2560px-Sky-news-logo-svg.png",SKY NEWS
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 
-#EXTINF:-1 tvg-id="Aljazeera "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Aljazeera uk
+#EXTINF:-1 tvg-id="Aljazeera "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Aljazeera uk
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
-#EXTINF:-1 tvg-id="GB NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/6YGMDFP/GB-News-logo-e1660555171324.png",GB NEWS UK
+#EXTINF:-1 tvg-id="GB NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/6YGMDFP/GB-News-logo-e1660555171324.png",GB NEWS UK
 https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 
 #EXTINF:-1 tvg-id="9xm "tvg-group="Music" tvg-logo="https://i.ibb.co/hD9V4Rz/lwihpv.png",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
-#EXTINF:-1 tvg-id="EKHON TV "tvg-group="NEWS" tvg-logo="https://i.ibb.co/Mcv989g/Ekhon-Logo.png",EKHON TV
+#EXTINF:-1 tvg-id="EKHON TV "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/Mcv989g/Ekhon-Logo.png",EKHON TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Rtv "tvg-group="NEWS" tvg-logo="https://i.ibb.co/7N9QHPj/800px-Rtv-bangladesh-svg.png",Rtv
+#EXTINF:-1 tvg-id="Rtv "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/7N9QHPj/800px-Rtv-bangladesh-svg.png",Rtv
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Net-geo "tvg-group="Documentary" tvg-logo="https://i.ibb.co/xLsQ9KG/1200px-Nat-Geo-Wild-logo.png",Net-geo
+#EXTINF:-1 tvg-id="Net-geo "tvg-group="Information" tvg-logo="https://i.ibb.co/xLsQ9KG/1200px-Nat-Geo-Wild-logo.png",Net-geo
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
-#EXTINF:-1 tvg-id="Jamuna "tvg-group="NEWS" tvg-logo="https://i.ibb.co/pQknVxV/31703685061wfk8m4lztpcrsk9mfsb7kagidbgqfwcuqejvdt6aok1uze1pmojogjkkb0fnaq9yrjzythbfifzzcyrbakzpn5ogu.png",Jamuna tv
+#EXTINF:-1 tvg-id="Jamuna "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/pQknVxV/31703685061wfk8m4lztpcrsk9mfsb7kagidbgqfwcuqejvdt6aok1uze1pmojogjkkb0fnaq9yrjzythbfifzzcyrbakzpn5ogu.png",Jamuna tv
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
-#EXTINF:-1 tvg-id="ABC NEWS "tvg-group="NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS AUSTRALIA 
+#EXTINF:-1 tvg-id="ABC NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS AUSTRALIA 
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
-#EXTINF:-1 tvg-id="TOFFEE "tvg-group="SPORTS",TOFFEE
-https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-
-#EXTINF:-1 tvg-id="TOFFEE 2 "tvg-group="SPORTS",TOFFEE 2
-https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-
-#EXTINF:-1 tvg-id="Tsports "tvg-group="SPORTS",Tsports
-https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8
 
 #EXTINF:-1 tvg-id="sky sports "tvg-group="SPORTS",sky sports
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=12
 
-#EXTINF:-1 tvg-id="Love nature "tvg-group="Documentary",Love Nature 
+#EXTINF:-1 tvg-id="Love nature "tvg-group="Information",Love Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jbBbr8h/Nagorik-TV-Logo.png" group-title="Bangladashi Channel", NAGORIK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jbBbr8h/Nagorik-TV-Logo.png" group-title="Bangla", NAGORIK TV
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Animal planet
+#EXTINF:-1 tvg-logo="   " group-title="Information", Animal planet
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Animal_Planet.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Discovery 
+#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery 
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Channel.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Discovery kids
+#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery kids
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Kids.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Discovery turbo
+#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery turbo
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Dmax
+#EXTINF:-1 tvg-logo="   " group-title="Information", Dmax
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/DMAX.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Food
+#EXTINF:-1 tvg-logo="   " group-title="Information", Food
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Food%20Network.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", HGTV
+#EXTINF:-1 tvg-logo="   " group-title="Information", HGTV
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Discovery  Channel", Discovery investigation 
+#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery investigation 
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Investigation_Discovery.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Bangladashi Channel", DIPTO TV
+#EXTINF:-1 tvg-logo=" " group-title="Bangla", DIPTO TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="NEWS", WION
+#EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", WION
 https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="NEWS", BLOOMBERG 
+#EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", BLOOMBERG 
 https://ythls.armelin.one/channel/UCIALMKvObZNtJ6AmdCLP7Lg.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla
@@ -143,7 +131,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV
@@ -164,8 +152,6 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Kolkata Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV
-http://starshare.live:8080/live/Sylvia/Sylvia/98854.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV HD
 http://103.120.172.74:5000
@@ -235,11 +221,13 @@ http://121.91.61.106:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
 #EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery Hindi HD
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
 #EXTINF:-1 group-title="Information",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png",CGTN Documentary
 https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
 
@@ -281,6 +269,7 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+
 #EXTINF:-1 group-title="Hindi Music",Mastii Music
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 
@@ -293,13 +282,13 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
-#EXTINF:-1 group-title="English News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",Aljazeera
+#EXTINF:-1 group-title="ENGLISH NEWS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="English News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",BBC World
+#EXTINF:-1 group-title="ENGLISH NEWS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",BBC World
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 
-#EXTINF:-1 group-title="English News",Fox News Now
+#EXTINF:-1 group-title="ENGLISH NEWS",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
