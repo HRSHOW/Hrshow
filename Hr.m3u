@@ -294,4 +294,23 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="ENGLISH NEWS",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDZlW.1000012705.png" group-title="ENGLISH NEWS", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDe0z.1000012706.png" group-title="ENGLISH NEWS", CBS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
+https://content-ause1-up-1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Aljazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", BLOOMBERG
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+
+
 
