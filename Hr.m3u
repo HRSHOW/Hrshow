@@ -34,7 +34,7 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-id="zoom "tvg-group="Music",Zoomtv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-##EXTINF:-1 tvg-id="France24 "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/RPtrWY8/635px-France24.png",FRANCE24 
+#EXTINF:-1 tvg-id="France24 "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/RPtrWY8/635px-France24.png",FRANCE24 
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 tvg-id="Euronews "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/5hjCzRH/800px-Euronews-2016-alternative-logo.png",EURONEWS 
