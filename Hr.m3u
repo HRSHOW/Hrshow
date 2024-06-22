@@ -327,7 +327,7 @@ https://radio.garden/api/ara/content/listen/u6RBJtbT/channel.mp3?1719042016478
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", FM BANGLA
 http://radio.garden/api/ara/content/listen/ASAHTxbM/channel.mp3?1719042041740
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", JAGO FM
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv19xX.1000012932.png" group-title="RADIO", JAGO FM
 http://radio.garden/api/ara/content/listen/pApJLS2Q/channel.mp3?1719042074936
 
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", EKATTOR 
@@ -354,7 +354,7 @@ https://radio.garden/api/ara/content/listen/Q0qOodUD/channel.mp3?1719042537969
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", SARABELA
 https://radio.garden/api/ara/content/listen/4tsbD1oI/channel.mp3?1719042583838
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", ISLAMI MUJAKARA
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv1wdh.1000012931.png" group-title="RADIO", ISLAMI MUJAKARA
 https://radio.garden/api/ara/content/listen/mblbgh1U/channel.mp3?1719042606023
 
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", BANGLADESH BETAR
