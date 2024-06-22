@@ -23,7 +23,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
-http://195.181.175.69:2080/67/index.m3u8
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="ABC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
