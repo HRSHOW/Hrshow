@@ -297,10 +297,10 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="ENGLISH NEWS",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDZlW.1000012705.png",group-title="ENGLISH NEWS",CNN
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDZlW.1000012705.png", group-title="ENGLISH NEWS",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDe0z.1000012706.png",group-title="ENGLISH NEWS",CBS
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDe0z.1000012706.png", group-title="ENGLISH NEWS",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="ABC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
@@ -315,7 +315,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", BLOOMBERG
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv16PM.1000012933.png", group-title="RADIO", RADIO PADMA
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv16PM.1000012933.png", group-title="RADIO",  RADIO PADMA
 http://radio.garden/api/ara/content/listen/rZztipXo/channel.mp3?1719041920223
 
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", DHAKA FM
@@ -363,10 +363,10 @@ https://radio.garden/api/ara/content/listen/k0P756nS/channel.mp3?1719042648512
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", BBC
 https://radio.garden/api/ara/content/listen/FXyhz9Xk/channel.mp3?1719041022702 
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", ABC NEWS
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv15I9.1000012924.png", group-title="RADIO", ABC NEWS
 https://radio.garden/api/ara/content/listen/ORzAZaFV/channel.mp3?1719041212067
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", ABC
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv15I9.1000012924.png", group-title="RADIO", ABC
 https://radio.garden/api/ara/content/listen/l3C6Ukbg/channel.mp3?1719041245451
 
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", GB NEWS
