@@ -312,56 +312,61 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", BLOOMBERG
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 
-http://128.199.184.111:12496/;stream/1
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", RADIO PADMA
+http://radio.garden/api/ara/content/listen/rZztipXo/channel.mp3?1719041920223
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 1
-https://radio.garden/api/ara/content/listen/u6RBJtbT/channel.mp3?1718959124963
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", DHAKA FM
+https://radio.garden/api/ara/content/listen/7MlBWuf6/channel.mp3?1719041997512
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 2
-http://radio.garden/api/ara/content/listen/rZztipXo/channel.mp3?1718959226913
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", FM MOON
+https://radio.garden/api/ara/content/listen/u6RBJtbT/channel.mp3?1719042016478
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 3
-http://radio.garden/api/ara/content/listen/pApJLS2Q/channel.mp3?1718959329728
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", FM BANGLA
+http://radio.garden/api/ara/content/listen/ASAHTxbM/channel.mp3?1719042041740
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 4
-https://radio.garden/api/ara/content/listen/jgDz_ceb/channel.mp3?1718959381160
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", JAGO FM
+http://radio.garden/api/ara/content/listen/pApJLS2Q/channel.mp3?1719042074936
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 5
-https://radio.garden/api/ara/content/listen/4E19qwG7/channel.mp3?1718959410666
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", EKATTOR 
+http://radio.garden/api/ara/content/listen/qyqFXs7Q/channel.mp3?1719042111947
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 6
-https://radio.garden/api/ara/content/listen/kiblpBAm/channel.mp3?1718959428962
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", RADIO GOONGOON
+https://radio.garden/api/ara/content/listen/4E19qwG7/channel.mp3?1719042351883
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 7
-https://radio.garden/api/ara/content/listen/Q0qOodUD/channel.mp3?1718959456628
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", RADIO MAHANANDA
+https://radio.garden/api/ara/content/listen/kiblpBAm/channel.mp3?1719042402549
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 8
-https://radio.garden/api/ara/content/listen/D1RQhUZc/channel.mp3?1718959484848
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", FM MOON
+https://radio.garden/api/ara/content/listen/u6RBJtbT/channel.mp3?1719042722091
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 9
-http://radio.garden/api/ara/content/listen/Dm6Gfwqu/channel.mp3?1718959548133
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", RADIO SYLHET
+https://radio.garden/api/ara/content/listen/avxQ2gwc/channel.mp3?1719042487649
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 10
-https://radio.garden/api/ara/content/listen/u6RBJtbT/channel.mp3?1718959567892
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", RADIO TODAY
+https://radio.garden/api/ara/content/listen/b7AKSFx5/channel.mp3?1719042498762
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 11
-http://radio.garden/api/ara/content/listen/ASAHTxbM/channel.mp3?1718959596472
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", RADIO SADHIN
+https://radio.garden/api/ara/content/listen/Q0qOodUD/channel.mp3?1719042537969
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 12
-http://radio.garden/api/ara/content/listen/pApJLS2Q/channel.mp3?1718959625225
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", SARABELA
+https://radio.garden/api/ara/content/listen/4tsbD1oI/channel.mp3?1719042583838
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 13
-https://radio.garden/api/ara/content/listen/sz9L6JeK/channel.mp3?1718959642736
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", ISLAMI MUJAKARA
+https://radio.garden/api/ara/content/listen/mblbgh1U/channel.mp3?1719042606023
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 14
-https://radio.garden/api/ara/content/listen/4E19qwG7/channel.mp3?1718959747745
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", BANGLADESH BETAR
+https://radio.garden/api/ara/content/listen/k0P756nS/channel.mp3?1719042648512
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 15
-https://radio.garden/api/ara/content/listen/b7AKSFx5/channel.mp3?1718959780270
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", BBC
+https://radio.garden/api/ara/content/listen/FXyhz9Xk/channel.mp3?1719041022702 
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", UNKNOWN 16
-https://radio.garden/api/ara/content/listen/gM-s-vB2/channel.mp3?1718959806625
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", ABC NEWS
+https://radio.garden/api/ara/content/listen/ORzAZaFV/channel.mp3?1719041212067
 
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", ABC
+https://radio.garden/api/ara/content/listen/l3C6Ukbg/channel.mp3?1719041245451
+
+#EXTINF:-1 tvg-logo=" " group-title="RADIO", GB NEWS
+https://radio.garden/api/ara/content/listen/lU0uyad7/channel.mp3?1719041290821
 
 
