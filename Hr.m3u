@@ -360,7 +360,7 @@ https://radio.garden/api/ara/content/listen/mblbgh1U/channel.mp3?1719042606023
 #EXTINF:-1 tvg-logo=" " group-title="RADIO", BANGLADESH BETAR
 https://radio.garden/api/ara/content/listen/k0P756nS/channel.mp3?1719042648512
 
-#EXTINF:-1 tvg-logo=" " group-title="RADIO", BBC
+#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv1tuD.1000012922.png", group-title="RADIO", BBC
 https://radio.garden/api/ara/content/listen/FXyhz9Xk/channel.mp3?1719041022702 
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv15I9.1000012924.png", group-title="RADIO", ABC NEWS
