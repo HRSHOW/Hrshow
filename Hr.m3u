@@ -49,6 +49,9 @@ https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-id="Aljazeera "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Aljazeera uk
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
+#EXTINF:-1 tvg-id="Aljazeera "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Aljazeera index
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
 #EXTINF:-1 tvg-id="GB NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/6YGMDFP/GB-News-logo-e1660555171324.png",GB NEWS UK
 https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 
