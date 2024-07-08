@@ -1,4 +1,4 @@
-#EXTM3U
+q#EXTM3U
 
 
 #EXTINF:-1 tvg-id="DBC"tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/jWxVHPG/DBC-News-logo.png",dbc news
@@ -380,7 +380,7 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=ofnZpk5oVLbH
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", ATN NEWS
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=kECeg35kWlVci75CqCmzQg&expires=1720587291&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png ", AL JAZEERA
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",ALJAZEERA
 https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=zt1wFffsHNpvTPPFwt01DA&expires=1720587307&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", BBC LIFESTYLE 
