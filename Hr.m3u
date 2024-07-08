@@ -420,10 +420,11 @@ https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=H9Bcpw5vbu0yG
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", DESH TV
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=fVzinSNeecJrlGyJne1C1Q&expires=1720587586&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", DURONTO
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg
+", DURONTO
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=lmLEAQFLWuinsqB_lSb3oQ&expires=1720587607&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", EKATTOR
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png ", EKATTOR
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=E3TJPw5xNLOFZJLRYzzuaQ&expires=1720587625&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", EKUSHEY 
