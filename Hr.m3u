@@ -435,6 +435,7 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=eWA1AGNGApXn
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", GAAN BANGLA 
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=3fG_57zaV-pDejJ_tSoUfg&expires=1720587683&user=d477246e9e724f81a011b847457e71c4
 
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ",GAZITV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=hFckyI96_OxLjp6rbfXq1w&expires=1720587703&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", INDEPENDENT 
@@ -467,7 +468,7 @@ https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=edCwe0gJGqR7sffYrf-
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", SATV
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=sCeKoJWpcWte--csJAQmAA&expires=1720591318&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", SOMOY
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/Q9YtZqc/Somoy-TV-Logo-e1629770037938.png ",SOMOY
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=OzVh3NbPYS__I5IsAm2HQw&expires=1720591338&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", T SPORTS
