@@ -1,4 +1,4 @@
-q#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 tvg-id="DBC"tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/jWxVHPG/DBC-News-logo.png",dbc news
@@ -384,9 +384,6 @@ https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=uNcFoQpjyQT7
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", BBC LIFESTYLE 
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=hJlNSwm-3Nr_dYXEWSkFzg&expires=1720848085&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png ",BBC WORLD 
-https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",BBC World
-
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png ",BBC WORLD
 https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=uuM8AHSx5_BlxfSTQHL82g&expires=1720848110&user=d477246e9e724f81a011b847457e71c4
 
@@ -416,9 +413,6 @@ https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=BqMziZ11MJlSf
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", DW
 https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=Dwo34Te4Gv69APj9N371uw&expires=1720848366&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg ", DEEPTO
-https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=Bp93f1EERUfSBjIyK_E4sA&expires=1720848395&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", DESH TV
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=4VgSiyFJojHbzTtmEZ1PlA&expires=1720848423&user=d477246e9e724f81a011b847457e71c4
