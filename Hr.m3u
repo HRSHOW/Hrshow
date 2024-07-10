@@ -401,8 +401,8 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=pmqInum9g
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", CGTN NEWS
 https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=ao0MNwrtIhhY4RWjf4tuOg&expires=1720838314&user=a83af553908c4b3c8b78fea43e66f862
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", 
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=BboinlLr81LnHPj1kZCAxg&expires=1720587462&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ",DBC
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=i--JadttXW6TxGRBpM3qAQ&expires=1720840565&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", CHANNEL 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=ED7_MUv9nnd84QmGEujUaw&expires=1720838381&user=a83af553908c4b3c8b78fea43e66f862
@@ -424,13 +424,13 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=fVzinSNeecJrlGy
 
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg
 ", DURONTO
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=lmLEAQFLWuinsqB_lSb3oQ&expires=1720587607&user=d477246e9e724f81a011b847457e71c4
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=Qk62hTQ9T-OmwnNpu9KVrg&expires=1720840722&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png ", EKATTOR
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=E3TJPw5xNLOFZJLRYzzuaQ&expires=1720587625&user=d477246e9e724f81a011b847457e71c4
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=-243ue-CUpBbTZzLnq1AQg&expires=1720840766&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png ", EKUSHEY 
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=eWA1AGNGApXnfBj0zr_Dgg&expires=1720587646&user=d477246e9e724f81a011b847457e71c4
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=NN5dv37esOo24GECkDiD0A&expires=1720840807&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", GAAN BANGLA 
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=3fG_57zaV-pDejJ_tSoUfg&expires=1720587683&user=d477246e9e724f81a011b847457e71c4
