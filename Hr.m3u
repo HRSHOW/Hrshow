@@ -20,7 +20,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="News24 "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/0VxSVbB/news24bd-tv-logo-vector.png",News24
-https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 
 #EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -68,7 +68,7 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
 #EXTINF:-1 tvg-id="Jamuna "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/pQknVxV/31703685061wfk8m4lztpcrsk9mfsb7kagidbgqfwcuqejvdt6aok1uze1pmojogjkkb0fnaq9yrjzythbfifzzcyrbakzpn5ogu.png",Jamuna tv
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 tvg-id="ABC NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS AUSTRALIA 
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
