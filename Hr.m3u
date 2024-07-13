@@ -8,7 +8,7 @@ http://xtv.ooo:8080/noman1122/noman1122/245914
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5
 
 #EXTINF:-1 tvg-id="Satv "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/6JW4FpY/HC82WBV.png",Satv
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=0aexj2uEmR-RqihNfv4-tg&expires=1720385628&user=c15be118d93a464dabf77260596012cf
+http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 tvg-id="71 tv "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/F35HKWg/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television-thumbn.png",71 tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
@@ -18,6 +18,9 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
 #EXTINF:-1 tvg-id="Banglavision "tvg-group="Bangla" tvg-logo="https://i.ibb.co/TW9wN3M/3170301192763hr29oggvy5bbwhcjf5ub8se3ok6fgk5hejqo2xywbqg5psktx3vufu6rd4sfiyiwrmuuxqbxzsu6ymywvd8dha0.png",Banglavision
 https://evbr.short.gy/BDStreamHub/Bangla_Vision.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg" tvg-group="Bangla",Desh Tv
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 tvg-id="News24 "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/0VxSVbB/news24bd-tv-logo-vector.png",News24
 https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
