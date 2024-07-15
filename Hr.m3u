@@ -34,7 +34,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="zoom "tvg-group="Music",Zoomtv
+#EXTINF:-1 tvg-id="zoom "tvg-group="Music",tvg-logo="https://i.postimg.cc/L4LM3GHZ/png-transparent-zoom-tv-high-definition-television-wp-metro-zoom-television-text-logo.png",Zoomtv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 #EXTINF:-1 tvg-id="France24 "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/RPtrWY8/635px-France24.png",FRANCE24 
@@ -77,7 +77,7 @@ https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 
 
-#EXTINF:-1 tvg-id="sky sports "tvg-group="Sports",sky sports
+#EXTINF:-1 tvg-id="sky sports "tvg-group="Sports",tvg-logo="https://i.postimg.cc/8cQgVmb5/Sky-Sports-Logo-September-2020.jpg",sky sports
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=12
 
 #EXTINF:-1 tvg-id="Love nature "tvg-group="Information", tvg-logo="https://i.postimg.cc/kGswLxRp/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-misc.png", Love Nature 
@@ -86,34 +86,34 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jbBbr8h/Nagorik-TV-Logo.png" group-title="Bangla", NAGORIK TV
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Animal planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYj27zzZ/1280px-Animal-Planet.png   " group-title="Information", Animal planet
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="   " group-title="Information", Discovery 
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Channel.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4y6k4H81/discovery-kids-logo-combination-1997-2016-by-vincerabina-dg9nmkn-fullview.png   " group-title="Information", Discovery kids
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Kids.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery turbo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvsYPGLZ/Discovery-Turbo.png   " group-title="Information", Discovery turbo
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Dmax
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JQ3MYLB/dmax8196-logowik-com.webp   " group-title="Information", Dmax
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/DMAX.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Food
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9MgJvy/Food-Network-New-Logo.png   " group-title="Information", Food
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Food%20Network.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", HGTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwgvdHPc/hgtv-logo-C6693-DCA5-A-seeklogo-com.png" group-title="Information", HGTV
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery investigation 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25tf0Dbn/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3-874222841522.jpg   " group-title="Information", Discovery investigation 
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Investigation_Discovery.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", WION
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjBFKHYB/1200px-WION-news-Logo-svg.png " group-title="ENGLISH NEWS", WION
 https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", BLOOMBERG 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4j4tGyv/6fa3921b9c18be29830f31f4f4fb37f4.png " group-title="ENGLISH NEWS", BLOOMBERG 
 https://ythls.armelin.one/channel/UCIALMKvObZNtJ6AmdCLP7Lg.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla
