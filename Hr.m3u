@@ -89,7 +89,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYj27zzZ/1280px-Animal-Planet.png   " group-title="Information", Animal planet
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Animal_Planet.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="Information", Discovery 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRh8LN6r/logo-discovery.jpg   " group-title="Information", Discovery 
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Channel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4y6k4H81/discovery-kids-logo-combination-1997-2016-by-vincerabina-dg9nmkn-fullview.png   " group-title="Information", Discovery kids
