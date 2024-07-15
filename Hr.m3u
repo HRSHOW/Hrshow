@@ -477,7 +477,7 @@ https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=NlKQoJzHHTNLBh
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png ", ALJAZEERA
 https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=ob2AKYR_LNCt56EqJiC_QQ&expires=1721239787&user=a83af553908c4b3c8b78fea43e66f862
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", BBC LIFESTYLE 
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.postimg.cc/kMtrszyd/png-transparent-bbc-lifestyle-television-channel-bbc-entertainment-life-style-television-text-logo.png ", BBC LIFESTYLE 
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=coivFytFL_SwNTIqNLk_HQ&expires=1721239806&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png ",BBC WORLD
@@ -489,10 +489,10 @@ https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=S-wLqUj9V
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png ", BOISHAKHI
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=5ldhGscKq8za-y0A3thhfQ&expires=1721239882&user=a83af553908c4b3c8b78fea43e66f862
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CBEEBIES ASIA
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.postimg.cc/HxRqH9dK/CBeebies-II.png ", CBEEBIES ASIA
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=pnhGQ8f8JqM1jI0Z3F4f1Q&expires=1721239901&user=a83af553908c4b3c8b78fea43e66f862
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CGTN NEWS
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.postimg.cc/HnMfL8LL/768px-CGTN.png ", CGTN NEWS
 https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=NPrvkvT_PXibmvgsjs1iVg&expires=1721239917&user=a83af553908c4b3c8b78fea43e66f862
 
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://i.im.ge/2024/06/18/KkDZlW.1000012705.png ",CNN
@@ -544,7 +544,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=4AQMlRFyZkOWU
 #EXTINF:-1 group-title="JADOO" tvg-logo=" ", LOTUS
 https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=Jd5EWr2CSqDkwdeECqjB6g&expires=1721240652&user=a83af553908c4b3c8b78fea43e66f862
 
-#EXTINF:-1 group-title="JADOO" tvg-logo=" ", MAASRANGA 
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.postimg.cc/hPFk5sCQ/180px-Maasranga-Television-Logo.jpg ", MAASRANGA 
 https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=8KY_O4ZVpyJJSbLizDEJUQ&expires=1721240996&user=a83af553908c4b3c8b78fea43e66f862 
 
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png ", NTV
