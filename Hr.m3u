@@ -309,7 +309,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENGLISH NEWS", BLOOMBERG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8HRXvFg/bloomberg-television-logo-png-transparent.png " group-title="ENGLISH NEWS", BLOOMBERG
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/22/Kv16PM.1000012933.png", group-title="RADIO",  RADIO PADMA
