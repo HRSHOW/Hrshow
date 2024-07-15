@@ -234,7 +234,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png",CGTN Documentary
 https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Information",Wild Earth
+#EXTINF:-1 group-title="Information",tvg-logo="https://i.postimg.cc/gk4RRpnV/Explorers-logo.jpg",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP HD Bangla
@@ -249,7 +249,7 @@ https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png",Travel XP English NL
+#EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP English NL
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP English EU
@@ -264,7 +264,7 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/YCsWnxNj/2438px-Zoo-Moo-logo-svg.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS",Gubbare
@@ -273,10 +273,10 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
-#EXTINF:-1 group-title="Music",Mastii Music
+#EXTINF:-1 group-title="Music",tvg-logo="https://i.postimg.cc/6qfZMJzN/Mastiii-TV-logo.jpg",Mastii Music
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",Bollywood Hungama
+#EXTINF:-1 group-title="Music",tvg-logo="https://i.postimg.cc/xjvLfMQF/1280px-Bollywood-Hungama-logo-svg.png",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",Zoom
@@ -291,13 +291,13 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="ENGLISH NEWS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",BBC World
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 
-#EXTINF:-1 group-title="ENGLISH NEWS",Fox News Now
+#EXTINF:-1 group-title="ENGLISH NEWS",tvg-logo="https://i.postimg.cc/Cx18s2qW/Fox-News-Channel-logo.png",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDZlW.1000012705.png", group-title="ENGLISH NEWS",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2024/06/18/KkDe0z.1000012706.png", group-title="ENGLISH NEWS",CBS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrdYPJrf/png-transparent-cbs-news-logo-television-show-cbs-television-text-logo.png", group-title="ENGLISH NEWS",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="ABC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS
