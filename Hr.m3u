@@ -304,7 +304,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://content-ause1-up-1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png",Aljazeera
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=zJRZSAVrXsZXU54vPKCURg&expires=1721501706&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
