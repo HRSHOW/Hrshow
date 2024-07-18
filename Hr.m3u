@@ -11,7 +11,7 @@ https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=LNyZiklI9Z7S
 http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF:-1 tvg-id="71 tv "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/F35HKWg/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television-thumbn.png",71 tv
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=ERGI-MiUolcvooc8ualZtA&expires=1721524408&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="independent "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/cTWnsnS/png-clipart-bangladesh-independent-television-television-channel-mohona-tv-chanel-miscellaneous-tele.png",independent tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
@@ -23,7 +23,7 @@ https://evbr.short.gy/BDStreamHub/Bangla_Vision.m3u
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 tvg-id="News24 "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/0VxSVbB/news24bd-tv-logo-vector.png",News24
-https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=70znfha3
 
 #EXTINF:-1 tvg-id="BBC "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png",BBC NEWS
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
