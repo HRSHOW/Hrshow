@@ -71,7 +71,7 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
 #EXTINF:-1 tvg-id="Jamuna "tvg-group="BANGLA NEWS" tvg-logo="https://i.ibb.co/pQknVxV/31703685061wfk8m4lztpcrsk9mfsb7kagidbgqfwcuqejvdt6aok1uze1pmojogjkkb0fnaq9yrjzythbfifzzcyrbakzpn5ogu.png",Jamuna tv
-https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-id="ABC NEWS "tvg-group="ENGLISH NEWS" tvg-logo="https://i.ibb.co/ypKV8mk/abc-news-logo-vector.png",ABC NEWS AUSTRALIA 
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
